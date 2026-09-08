@@ -1,3 +1,5 @@
+**[Website integration guides](https://widget-house.github.io/google-reviews-widget/)** · [Source repository](https://github.com/widget-house/google-reviews-widget)
+
 # Widget House
 
 Website widgets for businesses, agencies, and developers.
